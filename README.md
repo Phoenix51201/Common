@@ -1,2 +1,2 @@
 # Common
-Common for Training which is modified by Reshikesh three times
+Common for Training. It is modified by Reshikesh
